@@ -52,10 +52,22 @@ I'm an AI-focused Python developer with hands-on experience building LLM-powered
 
 | Project | Description | Stack |
 |---|---|---|
-| **[Student Assistant — RAG Document Q&A](https://github.com/Tellakulaprasad)** | End-to-end RAG workflow: ingestion, chunking, embeddings, vector search, retrieval, and grounded response generation. | Python, RAG, Azure AI Foundry, Embeddings |
-| **[AI Agent & Customer Support Assistant](https://github.com/Tellakulaprasad)** | LLM-based agent workflow that interprets user requests and triggers backend actions, with agent state management and tool integration. | Python, LangGraph, LLM, FastAPI |
-| **[RxCare — AI-Powered Healthcare Platform](https://github.com/Tellakulaprasad)** | Manages prescriptions, medications, and health records; uses Google Gemini Vision to extract structured data from prescription images. | FastAPI, React Native, Gemini AI, SQLAlchemy |
-| **[AI-Based Trip Recommendation System](https://github.com/Tellakulaprasad)** | Content-based filtering system that scores and ranks travel destinations from user preferences. | Python, Pandas, Scikit-learn, Streamlit |
+| Student Assistant — RAG Document Q&A | End-to-end RAG workflow: ingestion, chunking, embeddings, vector search, retrieval, and grounded response generation. | Python, RAG, Azure AI Foundry, Embeddings |
+| AI Agent & Customer Support Assistant | LLM-based agent workflow that interprets user requests and triggers backend actions, with agent state management and tool integration. | Python, LangGraph, LLM, FastAPI |
+| **[RxCare — AI-Powered Healthcare Platform](https://github.com/Tellakulaprasad/rxcare-assistant)** | Manages prescriptions, medications, and health records; uses Google Gemini Vision to extract structured data from prescription images. Mobile app in [rxcare-assistant](https://github.com/Tellakulaprasad/rxcare-assistant), backend in [rxcare-backend](https://github.com/Tellakulaprasad/rxcare-backend). | FastAPI, React Native, Gemini AI, SQLAlchemy |
+| AI-Based Trip Recommendation System | Content-based filtering system that scores and ranks travel destinations from user preferences. | Python, Pandas, Scikit-learn, Streamlit |
+
+*(RxCare repos are private — links are visible to authorized collaborators.)*
+
+---
+
+### Other Repositories
+
+| Repository | Description |
+|---|---|
+| **[html-css-my-portfolio](https://github.com/Tellakulaprasad/html-css-my-portfolio)** | This portfolio site — HTML/CSS/JS. |
+| **[QRcode-generator.py](https://github.com/Tellakulaprasad/QRcode-generator.py)** | A Python QR code generator. |
+| **[Election-2024-lokasabha](https://github.com/Tellakulaprasad/Election-2024-lokasabha)** | Data analysis notebook on the 2024 Lok Sabha election. |
 
 ---
 
